@@ -1,0 +1,40 @@
+body {
+    background: rgb(119, 107, 119);
+    background-image: url("https://thumbs.gfycat.com/RaggedDampIbisbill-max-1mb.gif");
+}
+
+h1 {
+    color: white
+}
+
+legend {
+    color: white;
+}
+
+.description{
+    color: white
+}
+
+.selection {
+    color: white;
+}
+
+.choice {
+    color: white
+}
+
+div {
+    color: white:
+}
+
+p {
+    color: white;
+}
+
+button {
+    color: black;
+}
+
+.multiple-selection {
+    color: white;
+}
